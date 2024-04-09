@@ -1,5 +1,7 @@
 {
     "VoilaConfiguration": {
+        "preheat_kernel": true,
+        "pool_size": 5,
         "enable_nbextensions": true,
         "template": "vuetify-default-thermodynamics",
         "extension_language_mapping": {
@@ -8,6 +10,6 @@
         },
         "language_kernel_mapping": {
             "python": "python3"
-        }
+        }   
     }
 }
