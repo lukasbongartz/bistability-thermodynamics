@@ -1,6 +1,6 @@
 voila>=0.1.8
 ipyvuetify>=0.1.9
 voila-vuetify>=0.0.1a6
-voila-vuetify-thermodynamics>=0.6.9
+voila-vuetify-thermodynamics>=0.6.10
 bqplot
 numpy
